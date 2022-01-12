@@ -12,7 +12,7 @@ GV: Thầy Trần Trung Kiên
   <tr>
     <td>Nguyễn Tuấn Anh</td>
     <td>18120110</td>
-    <td>https://github.com/coder1102</td>
+    <td>https://github.com/ultimate1102</td>
   </tr>
   <tr>
     <td>Chương Việt Hoàng</td>
