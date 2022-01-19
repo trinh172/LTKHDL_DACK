@@ -25,3 +25,5 @@ GV: Thầy Trần Trung Kiên
     <td>https://github.com/trinh172</td>
   </tr>
 </table>
+<h3>Kế hoạch làm việc nhóm</h3>
+<a href = "https://docs.google.com/spreadsheets/d/1GT2iGMxw4Od1zVzyaCp86VcaUJfdm15523NdWvgP3a0/edit?usp=sharing">Chi tiết kế hoạch thực hiện</a> 
